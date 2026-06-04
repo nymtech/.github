@@ -1,3 +1,5 @@
+![Nym](https://raw.githubusercontent.com/nymtech/Nym-brand-assets/main/Nym.png)
+
 # Nym
 
 **Nym is a privacy platform that provides network-level privacy against mass surveillance — protecting not just *what* you communicate, but *who* you talk to, *when*, and *how often*.**

@@ -1,4 +1,4 @@
-![Nym](https://raw.githubusercontent.com/nymtech/Nym-brand-assets/main/Nym.png)
+![Nym](https://github.com/nymtech/Nym-brand-assets/blob/main/Frame%2048099257.png)
 
 # Nym
 
